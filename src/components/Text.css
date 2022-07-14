@@ -1,0 +1,17 @@
+.MainHeading{
+   text-align: center;
+   font-size:55px;
+   margin-top:20px;
+   font-family:"Neue Singular Font Family"
+
+}
+.SubHeading{
+    margin-top:-25px;
+    text-align: center;
+    font-size:25px;
+}
+.percentage{
+    text-align: center;
+    font-size:25px;
+    margin-top:-25px;
+}
